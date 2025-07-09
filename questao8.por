@@ -3,7 +3,7 @@ programa
 	
 	funcao inicio()
 	{
-		inteiro a, b, c
+		real a, b, c
 		escreva("qual o comprimento da reta A " )
 		leia(a)
 		escreva("qual o comprimento da reta B ")
